@@ -3154,7 +3154,7 @@
     "actions": [
       {
         "action": "BuildSwiftPackage",
-        "configuration": "release",
+        "configuration": "debug",
         "tags": "sourcekit-disabled swiftpm"
       },
       {
