@@ -3158,7 +3158,8 @@
         "tags": "sourcekit-disabled swiftpm"
       },
       {
-        "action": "TestSwiftPackage"
+        "action": "TestSwiftPackage",
+        "configuration": "debug",
       }
     ]
   },
