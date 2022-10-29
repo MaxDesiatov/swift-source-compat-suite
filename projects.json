@@ -3159,7 +3159,7 @@
       },
       {
         "action": "TestSwiftPackage",
-        "configuration": "debug",
+        "configuration": "debug"
       }
     ]
   },
